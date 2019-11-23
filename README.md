@@ -1,7 +1,7 @@
 # bcmysql
 Basic database connection with php and mysql
 
-<<<<<<< HEAD
+
 i hope it will be useful
 =======
 
